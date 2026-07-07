@@ -68,14 +68,14 @@ git clone https://github.com/sakshamg1152/ConnectW.git
 
 ### Install Dependencies
 
-Frontend
+#### Frontend
 
 ```bash
 cd frontend
 npm install
 ```
 
-Backend
+#### Backend
 
 ```bash
 cd backend
@@ -85,15 +85,14 @@ npm install
 ### Start Backend
 
 ```bash
-npm start
+npm run dev
 ```
 
 ### Start Frontend
 
 ```bash
-npm run dev
+npm start
 ```
-
 ---
 
 ## 📸 Screenshots
