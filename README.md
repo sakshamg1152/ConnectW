@@ -98,7 +98,13 @@ npm run dev
 
 ## 📸 Screenshots
 
-> Screenshots will be added soon.
+![Home](screenshots/home.png.png)
+
+![Meeting](screenshots/meeting-room.png.png)
+
+![Chat](screenshots/chat.png.png)
+
+![Join](screenshots/join-meeting.png.png)
 
 ---
 
